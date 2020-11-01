@@ -1,0 +1,7 @@
+{
+  "name": "funnyvideos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
